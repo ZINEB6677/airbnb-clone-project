@@ -11,3 +11,23 @@ This project focuses on studying the Airbnb platform and creating a similar webs
 - Database: MySQL
 - Version Control: Git & GitHub
 - Design: Figma
+
+## UI/UX Design Planning
+### Design Goals
+- Create intuitive booking flow
+- Ensure fast loading times
+- Prioritize mobile responsiveness
+
+### Key Features
+- Property search and filtering
+- Detailed property viewing
+- Secure checkout process
+- User authentication
+
+### Primary Pages
+Property Listing View: Grid display of properties with filters 
+Listing Detailed View: Full property details with images and booking form 
+Simple Checkout View: Streamlined payment and booking confirmation 
+
+Importance of User-Friendly Design: 
+A well-designed booking system reduces friction, improves navigation, and increases customer satisfaction.
