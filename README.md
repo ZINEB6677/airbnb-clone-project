@@ -25,9 +25,14 @@ This project focuses on studying the Airbnb platform and creating a similar webs
 - User authentication
 
 ### Primary Pages
-Property Listing View: Grid display of properties with filters 
-Listing Detailed View: Full property details with images and booking form 
-Simple Checkout View: Streamlined payment and booking confirmation 
+| Page | Description |
+|------|--------------|
+| **Property Listing View** | Displays available properties in a grid layout with filters for location, price, and rating. |
+| **Listing Detailed View** | Shows complete property details, including images, amenities, and a booking form. |
+| **Simple Checkout View** | Provides a quick and secure payment and booking confirmation interface. |
 
 Importance of User-Friendly Design: 
 A well-designed booking system reduces friction, improves navigation, and increases customer satisfaction.
+
+###  Color Styles
+
