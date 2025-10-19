@@ -48,3 +48,40 @@ A well-designed booking system reduces friction, improves navigation, and increa
 ###  Importance of Identifying Design Properties
 Identifying design properties such as colors, typography, and spacing ensures a **consistent look and feel** throughout the website.  
 It helps developers accurately implement designs from Figma and maintain brand identity, resulting in a smooth and user-friendly experience.
+
+
+
+## Project Roles and Responsibilities
+
+| Role | Responsibilities |
+|------|------------------|
+| Project Manager | Manages timeline, coordinates the team, tracks deliverables |
+| Frontend Developers | Build UI components, ensure responsive design |
+| Backend Developers | Build APIs, manage database, implement business logic |
+| Designers | Create mockups, maintain UX/UI quality |
+| QA/Testers | Write and run test cases, report bugs |
+| DevOps Engineers | Manage deployment, servers, and CI/CD |
+| Product Owner | Define requirements, prioritize features |
+| Scrum Master | Organize meetings, remove blockers, facilitate agile process |
+
+## UI Component Patterns
+
+### Planned Components
+
+**Navbar**
+- Logo  
+- Search bar  
+- User navigation  
+- Responsive menu  
+
+**Product Card**
+- Product image  
+- Price, type, rating  
+- Add to cart button  
+- Responsive layout  
+
+**Footer**
+- Site links  
+- Company information  
+- Social media links  
+- Copyright  
